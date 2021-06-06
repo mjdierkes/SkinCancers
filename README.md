@@ -1,3 +1,5 @@
+
+![CoverImage](https://user-images.githubusercontent.com/43052745/120941166-da2b9880-c6e6-11eb-8953-4d1cb3c87e1c.png)
 # Skin Cancers
 A WWDC21 Swift Student Challenge Winning Playground
 
